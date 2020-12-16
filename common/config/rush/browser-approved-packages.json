@@ -7,6 +7,10 @@
       "allowedCategories": [ "libraries", "tests" ]
     },
     {
+      "name": "@thesisedu/rush-api-documenter",
+      "allowedCategories": [ "libraries", "tests" ]
+    },
+    {
       "name": "react",
       "allowedCategories": [ "tests" ]
     },

@@ -8,7 +8,7 @@
     "build": ""
   },
   "devDependencies": {
-    "@microsoft/api-documenter": "workspace:*",
+    "@thesisedu/rush-api-documenter": "workspace:*",
     "@rushstack/eslint-config": "workspace:*",
     "doc-plugin-rush-stack": "workspace:*"
   }

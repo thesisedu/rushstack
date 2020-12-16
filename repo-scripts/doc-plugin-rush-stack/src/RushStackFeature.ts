@@ -9,7 +9,7 @@ import {
   MarkdownDocumenterFeature,
   IMarkdownDocumenterFeatureOnBeforeWritePageArgs,
   IMarkdownDocumenterFeatureOnFinishedArgs
-} from '@microsoft/api-documenter';
+} from '@thesisedu/rush-api-documenter';
 
 interface INavigationNode {
   title: string;

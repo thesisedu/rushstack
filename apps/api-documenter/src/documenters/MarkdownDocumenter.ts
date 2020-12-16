@@ -1046,7 +1046,8 @@ export class MarkdownDocumenter {
           baseName += '.' + qualifiedName;
       }
     }
-    return baseName + '.md';
+
+    return baseName + '-' + apiItem.kind.toLowerCase() + '.md';
   }
 
   private _getLinkFilenameForApiItem(apiItem: ApiItem): string {
